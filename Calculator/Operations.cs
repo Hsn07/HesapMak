@@ -25,6 +25,11 @@ namespace Calculator
         {
             return sayi1 * sayi2;
         }
+        
+        public int KareAl(int sayi1)
+        {
+            return sayi1*sayi1;
+        }
 
        
 
