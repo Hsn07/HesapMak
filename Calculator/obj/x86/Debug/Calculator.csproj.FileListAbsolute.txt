@@ -1,0 +1,5 @@
+/Users/yigitkader/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/yigitkader/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/yigitkader/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/yigitkader/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.exe
+/Users/yigitkader/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.pdb
